@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">📚 I am currently learning Web3 and Blockchain Technology<br>🎯Ask me anything about Development <br>🎯 Connect with me @ : arkoroy302@gmail.com <br </p>
 
 ###
 
@@ -91,15 +91,4 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arkoroy05/arkoroy05/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arkoroy05/arkoroy05/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arkoroy05/arkoroy05/output/pacman-contribution-graph.svg">
-</picture>
-##
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
