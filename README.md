@@ -1,10 +1,9 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 I am Arko Roy </h1>
+<p align="left">✨ A passionate FullStack and Web3 Dev from India</p>
+
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-###
 
 <h2 align="left">About me</h2>
 
